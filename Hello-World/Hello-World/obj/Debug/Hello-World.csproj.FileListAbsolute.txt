@@ -1,0 +1,2 @@
+D:\Учеба\прога\2016\Hello-World\Hello-World\bin\Debug\Hello-World.exe.config
+C:\Users\RoG\Documents\GitHub\HelloWorld\Hello-World\Hello-World\bin\Debug\Hello-World.exe.config
